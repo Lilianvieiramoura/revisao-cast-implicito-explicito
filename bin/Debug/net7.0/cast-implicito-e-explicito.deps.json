@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cast-implicito-e-explicito/1.0.0": {
+        "runtime": {
+          "cast-implicito-e-explicito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cast-implicito-e-explicito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

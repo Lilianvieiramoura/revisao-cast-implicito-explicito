@@ -1,0 +1,15 @@
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/bin/Debug/net7.0/cast-implicito-e-explicito
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/bin/Debug/net7.0/cast-implicito-e-explicito.deps.json
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/bin/Debug/net7.0/cast-implicito-e-explicito.runtimeconfig.json
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/bin/Debug/net7.0/cast-implicito-e-explicito.dll
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/bin/Debug/net7.0/cast-implicito-e-explicito.pdb
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.csproj.AssemblyReference.cache
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.GeneratedMSBuildEditorConfig.editorconfig
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.AssemblyInfoInputs.cache
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.AssemblyInfo.cs
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.csproj.CoreCompileInputs.cache
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.dll
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/refint/cast-implicito-e-explicito.dll
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.pdb
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/cast-implicito-e-explicito.genruntimeconfig.cache
+/home/lilian/RevisandoC#/cast-implicito-e-explicito/obj/Debug/net7.0/ref/cast-implicito-e-explicito.dll
